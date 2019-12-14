@@ -10,10 +10,10 @@ Feel free to suggest any other source to add in this list.
 
 If you are new to Android development, my suggestion is to start with [Udacity](https://www.udacity.com/). You can find a lot of courses (also free ones) for beginnes. A good starting point is:
 
-**[Developing Android Apps - Udacity](
-https://www.udacity.com/course/new-android-fundamentals--ud851)**
-**[Android Basics - User Interface - Udacity](
-https://www.udacity.com/course/android-basics-user-interface--ud834)**
+- [**Developing Android Apps - Udacity**](
+https://www.udacity.com/course/new-android-fundamentals--ud851)
+- [**Android Basics - User Interface - Udacity**](
+https://www.udacity.com/course/android-basics-user-interface--ud834)
 
 
 ## Books 📚
